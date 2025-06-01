@@ -1,15 +1,35 @@
-# Network Engineering Labs (Cisco IOS)
+# 📂 **Network Engineering Labs (Cisco) README**
 
-This repository contains practical hands-on networking labs focused on Layer 2 & Layer 3 design using Cisco IOSv and IOSvL2.
+```markdown
+# Network Engineering Labs (Cisco)
 
-## Lab Topics
+This repository contains hands-on Cisco routing and switching labs designed to
+reinforce foundational networking concepts commonly used by network and security engineers.
+```
+---
+
+## Lab Categories
 
 - ✅ **VLANs & Trunking**
 - ✅ **Inter-VLAN Routing**
 - ✅ **OSPF Routing**
 - ✅ **BGP Multihoming**
-- ✅ **Port Security**
-- ✅ **Access Control Lists (ACLs)**
+- ✅ **Port Security & Access Control Lists (ACLs)**
+
+---
+
+## 📂 Repository Structure
+
+```markdown
+# /network-engineering-labs
+
+  /switching-vlan-trunking  → VLAN Creation, Trunking, VLAN Database Management
+  /intervlan-routing        → Router-on-a-Stick Configurations
+  /ospf-routing             → Multi-Area OSPF Deployment
+  /bgp-multihoming          → BGP Peering, Default Routes, Multi-ISP Simulation
+  /port-security-acls       → Layer 2 Security, ACL Filtering, Device Access Control
+```
+--- 
 
 ## Purpose
 
