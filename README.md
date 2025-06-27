@@ -13,7 +13,7 @@ reinforce foundational networking concepts commonly used by network and security
 - ✅ **VLANs & Trunking**
 - ✅ **Inter-VLAN Routing**
 - ✅ **OSPF Routing**
-- ✅ **BGP Multihoming**
+- ✅ **DNS Monitoring/Troubleshooting**
 - ✅ **Port Security & Access Control Lists (ACLs)**
 
 ---
@@ -26,7 +26,7 @@ reinforce foundational networking concepts commonly used by network and security
   /switching-vlan-trunking  → VLAN Creation, Trunking, VLAN Database Management
   /intervlan-routing        → Router-on-a-Stick Configurations
   /ospf-routing             → Multi-Area OSPF Deployment
-  /bgp-multihoming          → BGP Peering, Default Routes, Multi-ISP Simulation
+  /dns-troubleshooting-monitoring → Internal DNS Resolution, Name Failures, Monitoring Simulation
   /port-security-acls       → Layer 2 Security, ACL Filtering, Device Access Control
 ```
 --- 
