@@ -13,7 +13,7 @@ and tested for failure points. It focuses on DNS resolution, client-server commu
 - **PC-B**: 172.16.10.11 — Used for DNS misconfiguration testing
 - **DNS Server**: 172.16.10.53 — Resolves internal domains
 - **Web Server**: 172.16.10.80 — Hosts `www.testsite.com`
-- **Syslog Server (Optional)**: 172.16.10.100 — Monitoring/logging simulation
+- **Syslog Server**: 172.16.10.100 — Monitoring/logging simulation
 
 ---
 
