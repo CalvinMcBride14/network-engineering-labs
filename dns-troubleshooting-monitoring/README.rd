@@ -17,7 +17,7 @@ and tested for failure points. It focuses on DNS resolution, client-server commu
 
 ---
 
-## 🧪 DNS Records Used
+## DNS Records Used
 
 | Domain             | IP Address     |
 |--------------------|----------------|
